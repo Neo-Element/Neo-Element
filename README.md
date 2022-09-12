@@ -1,5 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm Alexis 🧑‍💻</h1>
 <h3 align="center">A Full Stack Developer from Argentina 🇦🇷</h3>
+<br>
 
 - 🔭 I’m currently working at [Plataforma5.](plataforma5.la/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE3Yop6dZyM2Xp6kHFBzzl-iLAri5Ltw1zhmeJ2nevbp3H398cFB9EcaAiy6EALw_wcB)
 
